@@ -1,0 +1,12 @@
+{
+    "messages": [
+        {
+            "text": "Hi there!",
+            "isUser": false
+        },
+        {
+            "text": "What tech do you use?",
+            "isUser": true
+        }
+    ]
+}
