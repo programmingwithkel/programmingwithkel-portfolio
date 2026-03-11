@@ -20,7 +20,7 @@ export async function POST(request: Request) {
             );
         }
 
-        // Use FormData approach which is more reliable with Web3Forms
+
         const formData = new FormData();
         formData.append('access_key', accessKey);
         formData.append('name', name);
